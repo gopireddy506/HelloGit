@@ -1,1 +1,1 @@
-# HelloGit
+# Simply prints hello statement
